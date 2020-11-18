@@ -13,7 +13,7 @@ b. GenStructures.hpp
 c. 
 
 3. A DESCRIPTION OF ANY KNOWN COMPILE OR RUNTIME ERRORS, CODE LIMITATIONS, OR DEVATIONS FROM ASSIGNMENT SPECIFICATIONS (IF APPLICABLE)
-a. ***Answer goes here.***
+a. 
 
 4. A LIST OF ALL REFERENCES USED TO COMPLETE THE ASSIGNMENT, INCLUDING PEERS (IF APPLICABLE)
 a. In class Doubly Linked List notes
@@ -27,4 +27,6 @@ h. http://www.cplusplus.com/articles/NhA0RXSz/
 i. 
 
 5. INSTRUCTIONS FOR RUNNING THE ASSIGNMENT
-a. ***Answer goes here.***
+In Docker
+a. make all
+b. ./Assignment4.exe TextFileName
